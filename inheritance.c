@@ -18,7 +18,7 @@ const int INDENT_LENGTH = 4;
 person *create_family(int generations);
 void print_family(person *p, int generation);
 void free_family(person *p);
-char random_allele();
+char random_allele(void);
 
 int main(void)
 {
@@ -133,7 +133,7 @@ void print_family(person *p, int generation)
 }
 
 // Randomly chooses a blood type allele.
-char random_allele()
+char random_allele(void)
 {
     int r = rand() % 3;
     if (r == 0)
