@@ -5,7 +5,7 @@
 https://cs50.harvard.edu/x/2023/labs/5/
 
 Submitted:<br>
-
+[inheritance.c](inheritance.c)<br>
 
 ## Problem Set 5:
 
