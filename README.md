@@ -6,7 +6,8 @@ https://cs50.harvard.edu/x/2023/labs/5/
 
 Submitted:<br>
 [inheritance.c](inheritance.c)<br>
-[dictionary.h](dictionary.c)<br>
+[dictionary.c](dictionary.c)<br>
+TODO: Add a real hash function for dictionary.c
 
 ## Problem Set 5:
 
