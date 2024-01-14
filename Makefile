@@ -1,2 +1,2 @@
 inheritance:
-	cc -Wall -Wextra -pedantic inheritance.c -o a.out
+	cc -Wall -Wextra -pedantic inheritance.c -o inheritance.out
